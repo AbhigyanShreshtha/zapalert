@@ -10,7 +10,7 @@
 Module path:
 
 ```bash
-github.com/your_github_user_or_org/zapalert
+github.com/AbhigyanShreshtha/zapalert
 ```
 
 ## Why zapalert
@@ -35,7 +35,7 @@ It is designed for:
 ## Installation
 
 ```bash
-go get github.com/your_github_user_or_org/zapalert
+go get github.com/AbhigyanShreshtha/zapalert
 ```
 
 ## Log schema
@@ -81,8 +81,8 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/your_github_user_or_org/zapalert"
-	"github.com/your_github_user_or_org/zapalert/ctxmeta"
+	"github.com/AbhigyanShreshtha/zapalert"
+	"github.com/AbhigyanShreshtha/zapalert/ctxmeta"
 )
 
 func main() {
